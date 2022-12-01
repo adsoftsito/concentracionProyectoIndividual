@@ -1,6 +1,5 @@
-streamlit
-altair
+pandas
 time
 numpy
-pandas
+streamlit
 plotly
