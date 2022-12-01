@@ -1,6 +1,6 @@
-numpy 
+streamlit
+time
+numpy
 pandas
 plotly.express
 plotly.graph_objects
-streamlit
-time
